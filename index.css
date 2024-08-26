@@ -1,0 +1,90 @@
+#icon{
+    height: 73px;
+    width: 145px;
+    position: relative;
+    margin-left: 120px;
+    margin-top: -15px;
+}
+#space{
+    color: rgb(248, 238, 238);
+    position: relative;
+    top: -33px;
+    width: 36%;
+    padding-left: 15px;
+    
+}
+#btn{
+    position: relative;
+    top: -33px;
+    margin-left: 25px;
+    padding: 5px;
+    background-color: rgb(252, 48, 86);
+    border-radius: 5px;
+    color: white;
+    border: none;
+    width: 75px;
+}
+.nav1{
+    background-color: rgb(240, 239, 239);
+    display: flex;
+    padding: -52px;
+    
+}
+.leftnavbar {
+    display: flex;
+    justify-content: left;
+    list-style-type: none;
+    margin-left: 110px;
+    
+}
+.leftnavbar li{
+    padding: 7px;
+}
+
+.rightnavbar{
+    display: flex;
+    float: right;
+    list-style-type: none;
+    margin-left: 550px;
+}
+.rightnavbar li{
+        padding: 7px;
+} 
+#menu{
+    position: relative;
+    top: -25px;
+    margin-left: 15px;
+
+}
+#srch{
+    position: relative;
+    top: -24px;
+    left: -575px;
+}
+#dropdown{
+    border: none;
+    position: relative;
+    top: -33px;
+    margin-left: 275px;
+
+}
+#slideimg{
+    height: 300px;
+    width: 1500px;
+}
+.heading{
+    margin-left: 100px;
+    font-weight: 700;
+    line-height: 1.17;
+    word-break: break-word;
+}
+#stree{
+    width: 1300px;
+}
+.material-symbols-outlined {
+    font-variation-settings:
+        'FILL' 0,
+        'wght' 400,
+        'GRAD' 0,
+        'opsz' 24
+}
